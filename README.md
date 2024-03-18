@@ -6,7 +6,7 @@ NextJS page router, react, redux
 
 ## Getting Started
 
-First, run the development server:
+First, do npm install and run the development server:
 
 ```bash
 npm run dev
