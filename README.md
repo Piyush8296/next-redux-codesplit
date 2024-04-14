@@ -1,5 +1,6 @@
 
 Live Demo - https://next-redux-codesplit.vercel.app/
+Blog URL - https://piyush-sde.medium.com/redux-code-splitting-for-scalability-and-seo-9c9fe8b8c778
 
 ## Tech stack
 NextJS page router, react, redux
